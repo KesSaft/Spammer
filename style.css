@@ -6,6 +6,8 @@ body{
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
+}
+img{
 	margin-top: 50px;
 }
 
@@ -26,6 +28,10 @@ button{
 p[id=instinfo]{
 	margin-top: 10px;
 	font-size: 30px;
+}
+p[id=quick]{
+	margin-top: 2px;
+	font-size: 10px;
 }
 img{
 	margin-bottom: 5px;
